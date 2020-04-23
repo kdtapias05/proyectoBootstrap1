@@ -1,0 +1,49 @@
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.bienvenido{
+    background-color:#D6CFCD; 
+    padding: 20px;
+}
+
+footer{
+        background-color: gray;
+ 
+}
+
+footer p{
+text-align: center;
+color: white;
+
+}
+
+main a{
+    margin-right: 20px;
+    text-align: center;
+}
+
+.parrafo{
+    text-align: justify;
+}
+
+hr{
+    color: black;
+}
+
+.relleno{
+    padding: 60px;
+}
+
+@media screen and (max-width:768px){
+main h6{
+    text-align: right; 
+}
+.bienvenido{
+    background-color: white; 
+    padding: 20px;
+}
+
+}
